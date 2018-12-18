@@ -1,0 +1,36 @@
+.Header1 {
+    background-color: black;
+    height: 60px;
+}
+
+.Body1 {
+    height: 600px;
+    background-position: auto;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.322), rgba(0, 0, 0, 0.6));
+}
+
+.Body2 {
+    height: 900px;
+}
+
+.Footer {
+    height: 80px;
+}
+
+.Meunu {
+    height: 200px;
+}
+
+.header2 {
+    height: 500px;
+    background-size: 100% 100%;
+    background-position: auto;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.295), rgba(0, 0, 0, 0.6));
+}
+
+.aa {
+    border-bottom: 0.5px solid;
+    color: red;
+}
